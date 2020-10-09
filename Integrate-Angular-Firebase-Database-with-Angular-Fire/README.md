@@ -1,27 +1,11 @@
-# AngularFirebaseDatabase
+https://loizenai.com/angular-fire-integrate-angular-10-firebase-realtime-database-example/
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.5.
+Integrate Angular 10 + Firebase RealTime Database using @angular/fire
 
-## Development server
+Tutorial: Integrate Angular 10 Firebase Realtime Database using @angular/fire example
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Firebase is a platform developed by Google for creating mobile and web applications. Firebase gives you the tools to develop high-quality apps, grow your user base, and earn more money. So In the tutorial, I introduce an example “Integrate Angular 10 Firebase using Realtime database using @angular/fire”.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+– I draw overview diagram architecture of our system.
+– Create a Firebase account and setup a Firebase Realtime database.
+– Setup an Angular WebApp that integrate with Firebase.
