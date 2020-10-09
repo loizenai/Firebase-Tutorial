@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "loizenai-firebase": {
+      "hosting": {
+        "AngularFirebase": [
+          "loizenai-firebase"
+        ]
+      }
+    }
+  }
+}
